@@ -19,3 +19,5 @@
 [Custom Right Click Menu](https://chrome.google.com/webstore/detail/custom-right-click-menu/onnbmgmepodkilcbdodhfepllfmafmlj)
 
 [Right-Click Converter](https://github.com/sourceduty/Right-Click_Converter)
+#
+ℹ️ This software is free and open-source; anyone can redistribute it and/or modify it.
